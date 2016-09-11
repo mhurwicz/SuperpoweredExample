@@ -1,0 +1,9 @@
+See file:///Users/mh/AndroidStudioProjects/SuperpoweredExample/app/build/tmp/compileSuperpoweredJNIArm64-v8aDebugSharedLibrarySuperpoweredJNIMainCpp/output.txt for all output for compileSuperpoweredJNIArm64-v8aDebugSharedLibrarySuperpoweredJNIMainCpp.
+compiling SuperpoweredJNI.cpp failed.
+In file included from /Users/mh/AndroidStudioProjects/SuperpoweredExample/app/src/main/jni/SuperpoweredJNI.cpp:1:0:
+/Users/mh/AndroidStudioProjects/SuperpoweredExample/app/src/main/jni/SuperpoweredJNI.h:8:45: fatal error: SuperpoweredAdvancedAudioPlayer.h: No such file or directory
+ #include <SuperpoweredAdvancedAudioPlayer.h>
+                                             ^
+compilation terminated.
+
+Finished compileSuperpoweredJNIArm64-v8aDebugSharedLibrarySuperpoweredJNIMainCpp, see full log file:///Users/mh/AndroidStudioProjects/SuperpoweredExample/app/build/tmp/compileSuperpoweredJNIArm64-v8aDebugSharedLibrarySuperpoweredJNIMainCpp/output.txt.

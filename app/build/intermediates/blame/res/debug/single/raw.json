@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mh/AndroidStudioProjects/SuperpoweredExample/app/build/intermediates/res/merged/debug/raw/lycka.mp3",
+        "source": "/Users/mh/AndroidStudioProjects/SuperpoweredExample/app/src/main/res/raw/lycka.mp3"
+    },
+    {
+        "merged": "/Users/mh/AndroidStudioProjects/SuperpoweredExample/app/build/intermediates/res/merged/debug/raw/nuyorica.m4a",
+        "source": "/Users/mh/AndroidStudioProjects/SuperpoweredExample/app/src/main/res/raw/nuyorica.m4a"
+    }
+]
